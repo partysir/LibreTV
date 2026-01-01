@@ -16,6 +16,11 @@ const CUSTOMER_SITES = {
         name: 'CK资源',
         adult: true
     },
+    snzy: {
+        api: 'https://suoniapi.com/api.php/provide/vod',
+        name: '索尼资源',
+        adult: true
+    },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
